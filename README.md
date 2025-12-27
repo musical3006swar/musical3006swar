@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hello, I'm Swaroop S
 
-<!--
-**musical3006swar/musical3006swar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Full-Stack Developer | Java Enthusiast | Blockchain Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 👨‍💻 Passionate about software development and data structures
+- 🧠 Strong focus on Java, Web, and Blockchain technologies
+- 🚀 Building real-world projects to sharpen my skills
+- 🤝 Always open to collaborations and growth opportunities
+
+---
+
+## 💼 Tech Stack
+
+**Languages:**  
+`Java` `JavaScript` `Python` `Solidity`
+
+**Web / Backend:**  
+`Node.js` `Express.js`
+
+**Databases:**  
+`MySQL` `MongoDB`
+
+**Tools:**  
+`Git` `GitHub` `VS Code`
+
+---
+
+## 📚 GitHub Projects
+
+Here are some of my notable public repositories:
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 💻 **DSAinJava** | Collection of Data Structures & Algorithms implemented in Java | `Java` |
+| 📘 **AdvanceJava** | Advanced Java concepts and mini projects | `Java` |
+| 🏫 **College_Fee_Management_System** | Java-based fee management system for college | `Java` |
+| 📇 **contactManagement** | Simple contact management UI & logic | `JavaScript` |
+| 🤖 **chatbot** | Chatbot project (ML / logic based) | JavaScript / Python |
+| ⛓️ **Solidity** | Ethereum Smart Contracts and Web3 examples | `Solidity` |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musical3006swar&show_icons=true&theme=dark)
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 📧 Email: your.email@example.com
+
+---
+
+> *“Strive not to be perfect, but to be continually improving.”*
+
