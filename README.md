@@ -51,8 +51,8 @@ Here are some of my notable public repositories:
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: www.linkedin.com/in/swaroop-salian
+- 📧 Email: 4al22cs176@gmail.com
 
 ---
 
