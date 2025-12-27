@@ -31,38 +31,6 @@
 
 ---
 
-## 🔗 Blockchain Animations (decentralised web)
-
-I've added a few GitHub-friendly, image/SVG-based "animations" to visually convey blockchain / decentralised-web concepts. GitHub strips scripts from READMEs, so all animations are served via SVG/GIF image embeds — dynamic enough and safe to use.
-
-- Typing banner highlighting blockchain:
-  <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=64FFDA&background=00000000&lines=Decentralized+Web;+Blockchain;+Smart+Contracts" alt="Blockchain typing" />
-  </p>
-
-- Decentralised network / nodes animation (GIF)
-  <p align="left">
-    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="420" alt="Decentralized network animation" />
-  </p>
-
-- Animated blocks / chain illustration (SVG)
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.svg" width="420" alt="blocks chain illustration (placeholder SVG)" />
-  </p>
-
-- Small blockchain badges / icons row
-  <p align="left">
-    <img src="https://img.shields.io/badge/Blockchain-Ethereum-616161?style=for-the-badge&logo=ethereum" alt="Ethereum" />
-    <img src="https://img.shields.io/badge/Web3-SmartContracts-2b2b2b?style=for-the-badge" alt="Web3" />
-    <img src="https://img.shields.io/badge/Decentralized-IPFS-101010?style=for-the-badge&logo=ipfs" alt="IPFS" />
-  </p>
-
-Notes:
-- The GIF and external SVG are hotlinked from third-party hosts (Giphy / GitHub raw). If you'd prefer fully self-hosted assets (recommended for reliability), I can add GIF/SVG files to an /assets folder in the repo and update the image src to point there.
-- You can replace the GIF with a project-specific animation (for example, an animated demo of a dApp UI or a block explorer) for more personal flair.
-
----
-
 ## 📚 GitHub Projects
 
 Here are some of my notable public repositories:
@@ -80,11 +48,13 @@ Here are some of my notable public repositories:
 
 ## 📊 GitHub Stats & Activity (animated)
 
+<!-- GitHub readme stats -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=musical3006swar&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musical3006swar&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+<!-- Streaks and Activity graph (these are dynamic/animated SVGs) -->
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=musical3006swar&theme=dark" alt="GitHub Streak" />
   <img src="https://activity-graph.herokuapp.com/graph?username=musical3006swar&theme=react-dark&area=true" alt="Activity Graph" />
@@ -106,4 +76,3 @@ Here are some of my notable public repositories:
 
 ---
 
-> *“Strive not to be perfect, but to be continually improving.”*
